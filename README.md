@@ -1,3 +1,6 @@
-吴恩达学习笔记
+## 吴恩达学习笔记
 
-目录
+> 使用Github+Markdown搭键自己的笔记本
+> https://blog.csdn.net/ZM_Yang/article/details/105617607
+
+### 目录
