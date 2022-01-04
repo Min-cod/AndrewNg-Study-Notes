@@ -15,5 +15,10 @@
 
 5. Linear Regression with one variable - cost function 代价函数
 
+6. Linear Regression with one variable - Gradient descent 梯度下降算法（学习的第一个算法）
+
+
+
+
 
 
